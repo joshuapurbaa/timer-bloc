@@ -13,7 +13,7 @@ class Background extends StatelessWidget {
             end: Alignment.bottomCenter,
             colors: [
               Colors.blue.shade50,
-              Colors.blue.shade500,
+              Colors.green.shade500,
             ],
           ),
         ),
